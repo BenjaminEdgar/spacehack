@@ -2,6 +2,8 @@ baseURL = "https://code4goodni.github.io/spacehack"
 languageCode = "en-us"
 title = "Code4Good Space Hack"
 
+publishDir = "docs"
+
 theme = "aerial"
 
 [params]

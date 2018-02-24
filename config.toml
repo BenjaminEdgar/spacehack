@@ -17,5 +17,5 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/code4goodNI"
 
